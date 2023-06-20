@@ -211,7 +211,7 @@
           {
             "title": "Alex Shchukin on Medium",
             "author": "Alex Shchukin",
-            "site_url": "https://medium.com/@shchukin-alex",
+            "site_url": "https://shchukin-alex.medium.com/",
             "feed_url": "https://medium.com/feed/@shchukin-alex",
             "twitter_url": "https://twitter.com/ShchukinAleks"
           },
@@ -2482,7 +2482,7 @@
             "site_url": "https://mackuba.eu",
             "feed_url": "https://mackuba.eu/feed.xml",
             "twitter_url": "https://twitter.com/kuba_suder",
-            "mastodon_url": "https://bitcoinhackers.org/@mackuba"
+            "mastodon_url": "https://martianbase.net/@mackuba"
           },
           {
             "title": "magnuskahr writing code",
@@ -3159,6 +3159,14 @@
             "twitter_url": "https://twitter.com/o_aberration"
           },
           {
+            "title": "Optimistic Closures",
+            "author": "Chris Free",
+            "site_url": "https://www.optimistic-closures.com",
+            "feed_url": "https://www.optimistic-closures.com/rss",
+            "twitter_url": "https://twitter.com/chrisfree",
+            "mastodon_url": "https://mastodon.xyz/@chrisfree"
+          },
+          {
             "title": "Orange Juice Liberation Front",
             "author": "Uli Kusterer",
             "site_url": "https://orangejuiceliberationfront.com",
@@ -3273,8 +3281,8 @@
           {
             "title": "Pedro Piñera’s Blog",
             "author": "Pedro Piñera",
-            "site_url": "http://ppinera.es",
-            "feed_url": "http://ppinera.es/feed.xml",
+            "site_url": "https://ppinera.es/",
+            "feed_url": "https://ppinera.es/feed.xml",
             "twitter_url": "https://twitter.com/pepicrft"
           },
           {
@@ -4360,13 +4368,6 @@
             "twitter_url": "https://twitter.com/uraimo"
           },
           {
-            "title": "Under The Bridge",
-            "author": "Alex Curylo",
-            "site_url": "http://94.237.75.63/",
-            "feed_url": "http://94.237.75.63/",
-            "twitter_url": "https://twitter.com/trollwerks"
-          },
-          {
             "title": "unpredictable.tech",
             "author": "Victor Pavlychko",
             "site_url": "https://unpredictable.tech/",
@@ -5332,6 +5333,13 @@
             "twitter_url": "https://twitter.com/quicktypeio"
           },
           {
+            "title": "Remotion Blog",
+            "author": "Remotion Team",
+            "site_url": "https://remotion.com/blog",
+            "feed_url": "https://rss.app/feeds/TrpLloSZPgX2UzBn.xml",
+            "twitter_url": "https://twitter.com/remotionco"
+          },
+          {
             "title": "Reveal Blog",
             "author": "Reveal Team",
             "site_url": "https://revealapp.com",
@@ -5641,7 +5649,7 @@
             "title": "More Than Just Code",
             "author": "Tim Mitra, Jaime Lopez Jr, Mark Rubin",
             "site_url": "http://www.mtjc.fm",
-            "feed_url": "https://feeds.acast.com/public/shows/646bd59620e0700011d52174",
+            "feed_url": "https://access.acast.com/rss/646bd59620e0700011d52174/",
             "twitter_url": "https://twitter.com/mtjc_podcast"
           },
           {
